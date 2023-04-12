@@ -1,0 +1,9 @@
+h1 {
+    border: 1px solid blue;
+}
+
+form {
+    display: contents;
+    width: 100px;
+    border: 2px solid red;
+}
